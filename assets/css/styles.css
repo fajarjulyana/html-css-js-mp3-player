@@ -1,0 +1,17 @@
+:root {
+  --header-height: 2rem;
+  /*============ color set ===========*/
+  --title-color:;
+  --body-color:;
+  --text-color:;
+  /*============ font typography ============*/
+  --body-font: 'sans-serif', italic;
+  --h1-font-size: 1.5rem;
+  --normal-font-size: .938rem;
+  --medium-font-size: .789rem;
+  --tiny-font-size: .625rem;
+}
+* {  
+  outline: none;  
+  box-sizing: border-box;  
+ }  
